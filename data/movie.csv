@@ -1,0 +1,21 @@
+Name,Year,Duration,Genre,Rating,Votes,Director,Actor1,Actor2,Actor3
+Movie1,2019,109,Drama,7.0,800,Gaurav Bakshi,Rasika Dugal,Vivek Ghamande,Arvind Jangid
+Movie2,2021,90,Drama Musical,6.5,500,Soumyajit Majumdar,Sayani Gupta,Plabita Borthakur,Roy Angana
+Movie3,2019,110,Comedy Romance,4.4,350,Ovais Khan,Prateik,Ishita Raj,Siddhant Kapoor
+Movie4,2010,105,Drama,7.2,1200,Amol Palekar,Rajat Kapoor,Rituparna Sengupta,Antara Mali
+Movie5,1997,147,Comedy Drama Musical,4.7,827,Rahul Rawail,Bobby Deol,Aishwarya Rai,Shammi Kapoor
+Movie6,2005,142,Drama Romance War,7.4,1086,Shoojit Sircar,Jimmy Sheirgill,Minissha Lamba,Yashpal Sharma
+Movie7,2012,82,Horror Mystery Thriller,5.6,326,Allyson Patel,Yash Dave,Muntazir Ahmad,Kiran Bhatia
+Movie8,2014,116,Action Crime Thriller,4.0,110,Biju Nair,Augustine,Fathima Babu,Byon
+Movie9,2004,96,Drama,6.2,170,Madhu Ambat,Rati Agnihotri,Gulshan Grover,Atul Kulkarni
+Movie10,2016,120,Horror,5.9,590,Arshad Siddiqui,Pankaj Berry,Anubhav Dhir,Hritu Dudani
+Movie11,2018,140,Action Thriller,8.2,3000,Christopher Nolan,ActorA,ActorB,ActorC
+Movie12,2017,130,Drama Romance,7.8,2500,James Cameron,ActorD,ActorE,ActorF
+Movie13,2020,115,Comedy,6.1,900,Steven Spielberg,ActorG,ActorH,ActorI
+Movie14,2015,150,Drama War,8.5,4000,Quentin Tarantino,ActorJ,ActorK,ActorL
+Movie15,2013,100,Horror Thriller,5.5,700,Jordan Peele,ActorM,ActorN,ActorO
+Movie16,2011,98,Romance,6.9,600,Nora Ephron,ActorP,ActorQ,ActorR
+Movie17,2009,125,Drama Crime,7.3,1800,Martin Scorsese,ActorS,ActorT,ActorU
+Movie18,2008,110,Action,6.8,1500,Ridley Scott,ActorV,ActorW,ActorX
+Movie19,2022,135,Drama,8.1,3200,Denis Villeneuve,ActorY,ActorZ,ActorAA
+Movie20,2023,145,Action SciFi,8.7,5000,James Gunn,ActorBB,ActorCC,ActorDD
