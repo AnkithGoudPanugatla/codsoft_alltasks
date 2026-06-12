@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Prediction Suite
 
 Professional multi-page Streamlit app.
@@ -33,3 +34,6 @@ streamlit run app.py
 - Use `pages/_template.py` as a template for adding new modules with consistent header and styles.
 
 If you want, I can now wire real models into Movie/Sales/Fraud pages, or create example dummy models for demo purposes.
+=======
+# CODSOFT
+>>>>>>> 67d6d8a03e0ce352be976f1940b6826002b668cc
